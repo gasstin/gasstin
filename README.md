@@ -11,7 +11,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on Holberton School Final project.
+- 🔭 I finished Holberton School Final project.
 - 🌱 I’m currently learning Python, API's, MySQL, Go.
 
 ### :hammer_and_wrench: Languages and Tools :
